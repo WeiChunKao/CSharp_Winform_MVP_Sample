@@ -1,0 +1,10 @@
+E:\MVP_Sample\MVP_Sample\bin\Debug\MVP_Sample.exe.config
+E:\MVP_Sample\MVP_Sample\bin\Debug\MVP_Sample.exe
+E:\MVP_Sample\MVP_Sample\bin\Debug\MVP_Sample.pdb
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.csproj.AssemblyReference.cache
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.Form1.resources
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.Properties.Resources.resources
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.csproj.GenerateResource.cache
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.csproj.CoreCompileInputs.cache
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.exe
+E:\MVP_Sample\MVP_Sample\obj\Debug\MVP_Sample.pdb
